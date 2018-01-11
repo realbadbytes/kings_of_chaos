@@ -1,0 +1,17 @@
+account
+    name
+    race
+    rank
+    personnel (soldiers)
+    military
+        fortification
+        strike_tech
+        funds
+        turn_based_income
+        covert level
+        effectiveness
+            strike_action
+            defensive_action
+            spy_rating
+            sentry_rating
+
