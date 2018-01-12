@@ -1,3 +1,5 @@
+#include "Effectiveness.h"
+
 class Military
 {
     public:
@@ -20,5 +22,5 @@ class Military
         double m_funds;
         double m_income;
         unsigned int m_covert_level;
-        //Effectiveness effectiveness;
+        Effectiveness m_effectiveness;
 };

@@ -10,8 +10,8 @@ account
         turn_based_income
         covert level
         effectiveness
-            strike_action
-            defensive_action
+            strike_rating
+            defensive_rating
             spy_rating
             sentry_rating
 

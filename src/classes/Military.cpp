@@ -54,14 +54,3 @@ void Military::set_covert_level(unsigned int new_covert_level)
 {
     m_covert_level = new_covert_level;
 }
-
-
-
-
-
-
-
-
-
-
-
